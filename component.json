@@ -1,0 +1,16 @@
+{
+  "name": "search_results",
+  "version": "1.0.0",
+  "description": "Результаты поиска",
+  "author": "LiquidHub.ru",
+  "type": "snippets",
+  "homepage": "https://github.com/insales-components/search_results",
+  "props": {
+    "common": false,
+    "liquid": false
+  },
+  "dependencies": {
+    "ui-notice": "https://github.com/insales-components/ui-notice",
+    "card": "https://github.com/insales-components/card"
+  }
+}
